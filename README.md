@@ -31,7 +31,7 @@ http://tmlife.net/programming/javascript/html5-canvas-star-polygon-draw.html
 http://www.html5.jp/canvas/how.html
 
 ## Demo
-https://mac-like.com/cremea-maker/
+[cremea-maker](https://shakaseyuki.github.io/cremea-maker/)
 
 ## Author
 [ShakaSeYuki](https://github.com/ShakaSeYuki)
